@@ -113,6 +113,7 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evoluç�
     align="left" 
     alt="GitHub Stats" 
     height="200" 
+    width="300"
     style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=Dev-Daniel-01&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
