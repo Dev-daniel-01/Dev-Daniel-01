@@ -108,7 +108,7 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evoluç�
 
 ### 📊 Estatísticas
 
-<p style="display: flex;" >
+<p style="display: flex; flex-direction: row; flex-wrap: wrap;" >
   <img 
     align="left" 
     alt="GitHub Stats" 
