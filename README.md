@@ -121,7 +121,7 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evoluç�
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="170" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Daniel-01&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
