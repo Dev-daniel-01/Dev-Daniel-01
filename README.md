@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Daniel Ribeiro
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Full-Stack -- Front-End`**
 
 Me chamo Daniel Ribeiro da Costa, tenho 17 anos e sou natural de Almirante Tamandaré, Paraná. Atualmente, estou cursando o terceiro ano do Ensino Médio no Colégio Estadual Lamenha Pequena e sou Técnico em Desenvolvimento de Sistemas pelo SENAI.
 
