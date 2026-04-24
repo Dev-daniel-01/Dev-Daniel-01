@@ -2,13 +2,16 @@
 
 **`Desenvolvedor Full-Stack -- Front-End`**
 
-Me chamo Daniel Ribeiro da Costa, tenho 17 anos e sou natural de Almirante Tamandaré, Paraná. Atualmente, estou cursando o terceiro ano do Ensino Médio no Colégio Estadual Lamenha Pequena e sou Técnico em Desenvolvimento de Sistemas pelo SENAI.
+Me chamo Daniel Ribeiro da Costa, tenho 18 anos e sou natural de Almirante Tamandaré, Paraná. Atualmente, curso Engenharia de Software na Universidade Positivo e sou formado como Técnico em Desenvolvimento de Sistemas pelo SENAI.
 
-Sou apaixonado por tecnologia, programação e inovações, e estou sempre em busca de novos conhecimentos e desafios na área de desenvolvimento de software. Aqui no GitHub, compartilho meus projetos, estudos e aprendizados, com foco especial em desenvolvimento web, lógica de programação e soluções criativas para o dia a dia.
+Sou desenvolvedor com foco em front-end, possuindo experiência com HTML, CSS, React, React Native, Vite e Next.js, além de conhecimentos em back-end. Tenho perfil proativo, comunicativo e organizado, com facilidade para trabalhar em equipe e assumir responsabilidades de liderança.
 
-Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução como desenvolvedor!
-<br/>
-📎 Conecte-se comigo no LinkedIn "(www.linkedin.com/in/daniel-ribeiro-da-costa-a0a8252b0)"
+Sou apaixonado por tecnologia, programação e inovação, e estou sempre em busca de aprimorar minhas habilidades por meio de projetos práticos e novos desafios. Aqui no GitHub, compartilho meus projetos, estudos e aprendizados, com foco em desenvolvimento web, boas práticas de código e soluções eficientes para o dia a dia.
+
+Fique à vontade para explorar meus repositórios e acompanhar minha evolução como desenvolvedor!
+
+📎 Conecte-se comigo no LinkedIn:
+www.linkedin.com/in/daniel-ribeiro-da-costa-a0a8252b0
 
 ---
 
